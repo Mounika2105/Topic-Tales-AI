@@ -1,4 +1,4 @@
-# 🎓 GenAI Educational Storytelling App
+# 🎓 TopicTales AI
 
 A creative, AI-powered web application that transforms academic learning into an engaging storytelling experience for children. Combines **Generative AI**, **LangGraph**, **RAG**, 
 and a modern React frontend to educate through story-based interactions and conversational Q&A.
